@@ -1,0 +1,22 @@
+h1 {
+	font-size: 40px;
+	color: white;
+	background-color:#5F9EA0;
+	margin: 1px;
+	float: left;
+
+}
+ul { 
+	float: right;
+ }
+h2 { 
+	font-size: 25px
+	 color: #5F9EA0;
+
+	 }
+
+img {
+    float: left; 
+    margin:#1.5px
+   
+}
